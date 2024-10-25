@@ -4,6 +4,10 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;   
+  -ms-appearance: none;  
 }
 
 body {
