@@ -13,7 +13,7 @@
   --secondary-color: #000028;
   --accent-color: #FF0070;
   --decor-color: #FF0070;
-
+  --decor-color-rgb: 255, 0, 112;
 }
 
 .page.theme_dark {
